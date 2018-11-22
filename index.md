@@ -48,8 +48,6 @@ recon_channel: "https://recon.swansea.ac.uk/#narrow/stream/20-shell-hpc-2018-12-
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
