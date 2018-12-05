@@ -221,6 +221,8 @@ recon_channel: "https://recon.swansea.ac.uk/#narrow/stream/20-shell-hpc-2018-12-
   {% include dc/schedule.html %}
 {% elsif page.carpentry == "lc" %}
   {% include lc/schedule.html %}
+{% elsif page.carpentry == "sa2c" %}
+  {% include sa2c/schedule.html %}
 {% endif %}
 
 {% comment %}
